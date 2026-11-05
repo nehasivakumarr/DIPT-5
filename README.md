@@ -87,6 +87,7 @@ plt.title("Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
+
 <img width="922" height="573" alt="image" src="https://github.com/user-attachments/assets/5640d96c-f41f-4a55-9b0b-c6f559c93b82" />
 
 ```
@@ -103,6 +104,7 @@ plt.title("Weighted Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
+
 <img width="657" height="422" alt="image" src="https://github.com/user-attachments/assets/2b72da36-82c6-48b3-86b1-7d3ce14e12eb" />
 
 ```
@@ -117,6 +119,7 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
+
 <img width="652" height="422" alt="image" src="https://github.com/user-attachments/assets/4ab2ce03-e1ae-496c-b889-e16ac0128bb0" />
 
 ```
@@ -132,6 +135,7 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
+
 <img width="903" height="575" alt="image" src="https://github.com/user-attachments/assets/d1086bc8-60ee-4fd8-9645-c7d4423be275" />
 
 ### Sharpening Filters
@@ -151,6 +155,7 @@ plt.title("Laplacian Kernel")
 plt.axis("off")
 plt.show()
 ```
+
 <img width="617" height="415" alt="image" src="https://github.com/user-attachments/assets/c9f53663-df90-4d27-8d24-b741c523ccc3" />
 
 ```
@@ -170,6 +175,7 @@ plt.show()
 <img width="637" height="421" alt="image" src="https://github.com/user-attachments/assets/96c8474a-3437-4724-a474-4347b952d021" />
 
 ## Result
+
 Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
 
 The smoothing filters reduce noise and improve image quality, while sharpening filters enhance edges and details for better feature extraction.
